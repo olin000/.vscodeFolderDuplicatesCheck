@@ -1,0 +1,2 @@
+python .vscodeFolderDuplicatesCheck.py
+pause
